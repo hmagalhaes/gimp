@@ -1,8 +1,10 @@
+[in english](README.md)
+
 Gimp Websprites
 ====
-Scripts to help you create CSS web sprites and reduce the number HTTP requests on your website.
+Scripts para ajudá-lo a criar sprites CSS e reduzir o número de requisições HTTP na sua página de Internet.
 
-###1. Features###
+###1. Características###
 Pacote de scripts-fu composto por 3 scripts, onde temos:
 * Exportação de arquivo CSS para usar a web sprite;
 * Organização de layers horizontalmente, lado a lado;
@@ -20,7 +22,7 @@ Os menus de acesso aos três scripts são os seguintes:
 Estes scripts irão simplesmente reposicionar horizontalmente, ou verticalmente, cada camada e em seguida irá redimensionar o canvas para caber as camadas.  
 Whenever possible, prefer to use horizontal arrangement because it will result in smaller image files.
 
-###4. Exportation script###
+###4. Script de exportação###
 
 ######4.1. Seletores CSS######
 Os seletores CSS resultantes da exportação serão nomeados de acordo com as camadas da imagem. Isso significa que se você tem uma camada que deseja exportar como "div.icon", você deve colocar este mesmo nome na camada.
