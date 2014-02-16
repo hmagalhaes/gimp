@@ -20,7 +20,7 @@ Os menus de acesso aos três scripts são os seguintes:
 
 ###3. Script de ordenação###
 Estes scripts irão simplesmente reposicionar horizontalmente, ou verticalmente, cada camada e em seguida irá redimensionar o canvas para caber as camadas.  
-Whenever possible, prefer to use horizontal arrangement because it will result in smaller image files.
+Sempre que possível, prefira usar ordenação horizontal porque irá resultar em arquivos de imagem menores.
 
 ###4. Script de exportação###
 
