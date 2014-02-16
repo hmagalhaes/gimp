@@ -1,3 +1,5 @@
+[em português](README.pt.md)
+
 Gimp Websprites
 ====
 Scripts to help you create CSS web sprites and reduce the number HTTP requests on your website.
